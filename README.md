@@ -118,10 +118,10 @@ int main() {
 ```
 ## OUTPUT
 $ ./sem.o 
-![]("sem2.png")
+![]("img/sem2.png ")
 
 $ ipcs
-![]("sem1.png ")
+![]("img/sem1.png ")
 
 # RESULT:
 The program is executed successfully.
