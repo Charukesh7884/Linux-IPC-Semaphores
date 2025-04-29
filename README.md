@@ -118,7 +118,7 @@ int main() {
 ```
 ## OUTPUT
 $ ./sem.o 
-![](sem2.png )
+![](<sem2.png>)
 
 $ ipcs
 ![](sem1.png )
