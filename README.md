@@ -115,12 +115,13 @@ int main() {
 
     return 0;
 }
+```
 ## OUTPUT
 $ ./sem.o 
-![](sem2.png)
+![](sem2.png )
 
 $ ipcs
-![](sem1.png)
+![](sem1.png )
 
 # RESULT:
 The program is executed successfully.
